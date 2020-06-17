@@ -33,7 +33,7 @@ public class NewTest {
 	@Test
 	public void tc_1() {
 		driver.get("http://www.google.co.in");
-		//driver.findElement(By.name("q")).sendKeys("selenium");
+		driver.findElement(By.name("q")).sendKeys("selenium");
 	}
 
 }
