@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JenkinsSuite" duration-ms="88049" started-at="2020-06-17T08:35:52Z" finished-at="2020-06-17T08:37:20Z">
+    <groups>
+    </groups>
+    <test name="JenkinsRunTest2" duration-ms="88049" started-at="2020-06-17T08:35:52Z" finished-at="2020-06-17T08:37:20Z">
+      <class name="com.parallelprocessing.NewTest2">
+        <test-method status="PASS" signature="Gmail()[pri:0, instance:com.parallelprocessing.NewTest2@4501b7af]" name="Gmail" duration-ms="30719" started-at="2020-06-17T08:35:52Z" finished-at="2020-06-17T08:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail -->
+        <test-method status="PASS" signature="Gmail2()[pri:0, instance:com.parallelprocessing.NewTest2@4501b7af]" name="Gmail2" duration-ms="25755" started-at="2020-06-17T08:36:22Z" finished-at="2020-06-17T08:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail2 -->
+        <test-method status="PASS" signature="Gmail3()[pri:0, instance:com.parallelprocessing.NewTest2@4501b7af]" name="Gmail3" duration-ms="31537" started-at="2020-06-17T08:36:48Z" finished-at="2020-06-17T08:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail3 -->
+        <test-method status="PASS" signature="tc_6()[pri:0, instance:com.parallelprocessing.NewTest2@4501b7af]" name="tc_6" duration-ms="2" started-at="2020-06-17T08:37:20Z" finished-at="2020-06-17T08:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_6 -->
+      </class> <!-- com.parallelprocessing.NewTest2 -->
+    </test> <!-- JenkinsRunTest2 -->
+  </suite> <!-- JenkinsSuite -->
+</testng-results>
